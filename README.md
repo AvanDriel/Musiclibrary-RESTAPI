@@ -1,5 +1,6 @@
 # Musiclibrary RESTAPI
 
+NOTE: since github doesn't like me uploading the vue part to this repo, I will upload it seperately.
 ### Assignment(s)
 The origal assignment was to build a RESTful API and a Vuejs frontend page to manage the API. For this project I descided to make a music library where you can add albums you want to listen to, and later mark them as 'listened'. Later I also made an android app to interact with the API on your smartphone.
 
